@@ -1,0 +1,24 @@
+{
+    "name": "dsa5-custom-fx",
+    "title": "DSA Custom Effects",
+    "description": "Combat and spell effects for DSA5",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.5.0",
+    "dependencies": [
+        {
+          "name": "JB2A_DnD5e",
+          "manifest": "https://github.com/Jules-Bens-Aa/JB2A_DnD5e/blob/main/module.json"
+        },
+        {
+            "name": "sequencer",
+            "manifest": "https://github.com/FantasyCalendar/FoundryVTT-Sequencer/releases/latest/download/module.json"
+          },
+        {
+          "name": "dsa5",
+          "type": "system"
+        }
+    ],
+    "scripts": [
+        "./scripts/effects.js"
+    ]
+}

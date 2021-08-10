@@ -23,5 +23,5 @@
     ],
     "url": "https://github.com/cptdood/dsa5-custom-fx",
     "manifest": "https://raw.githubusercontent.com/cptdood/dsa5-custom-fx/master/module.json",
-    "download": "https://raw.githubusercontent.com/cptdood/dsa5-custom-fx/latest/download/dsa5-custom-fx-0.0.1.zip"
+    "download": "https://github.com/cptdood/dsa5-custom-fx/releases/download/0.0.1/dsa5-custom-fx-0.0.1.zip"
 }
